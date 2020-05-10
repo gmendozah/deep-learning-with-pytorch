@@ -1,4 +1,4 @@
-# Deep Learning Nanodegree Program
+# Deep Learning (PyTorch) Nanodegree Program
 
 This repository contains material related to Udacity's Deep Learning Nanodegree program.
 
