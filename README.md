@@ -13,7 +13,7 @@ jupyter notebook your_jupyternotebook.ipynb
 
 or
 ```bash
-jupyter notebook your_jupyternotebook.ipynb.ipynb
+jupyter notebook your_jupyternotebook.ipynb
 ```
 
 on any Jupyter Notebook.
