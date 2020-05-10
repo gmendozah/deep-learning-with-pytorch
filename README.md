@@ -8,12 +8,12 @@ There are also notebooks used as projects for the Nanodegree program. Find the p
 In a terminal or command window, navigate to the top-level project directory `deep-learning-with-pytorch/` (that contains this README) and run the following command:
 
 ```bash
-jupyter notebook your_jupyternotebook.ipynb
+jupyter notebook your_jupyter_notebook.ipynb
 ```
 
 or
 ```bash
-jupyter notebook your_jupyternotebook.ipynb
+jupyter notebook your_jupyter_notebook.ipynb
 ```
 
 on any Jupyter Notebook.
