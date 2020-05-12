@@ -27,5 +27,11 @@ jupyter notebook dlnd_face_generation.ipynb.ipynb
 on any Jupyter Notebook.
 This will open the iPython Notebook software and project file in your browser.
 
+## Results
+
+Generated faces after 150 epochs.
+
+![](assets/results_with_150_epochs.jpg)
+
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
