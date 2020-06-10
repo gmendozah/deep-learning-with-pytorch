@@ -6,6 +6,43 @@ There are also notebooks used as projects for the Nanodegree program. Find the p
 
 ## Table of Contents
 
+[1. ](#)
+
+[2. ](#)
+
+[3. ](#)
+
+[4. ](#)
+
+[5. ](#)
+
+[6. ](#)
+
+[7. ](#)
+
+[8. ](#)
+
+[9. ](#)
+
+
+<a name="introml"/>
+
+### 1.
+
+### 2.
+
+### 3.
+
+### 4.
+
+### 5.
+
+### 6. 
+
+
+
+<a name="run"/>
+
 ## Run
 In a terminal or command window, navigate to the top-level project directory `deep-learning-with-pytorch/` (that contains this README) and run the following command:
 
@@ -21,11 +58,17 @@ jupyter notebook your_jupyter_notebook.ipynb
 on any Jupyter Notebook.
 This will open the iPython Notebook software and project file in your browser.
 
+
+<a name="pcertificate"/>
+
 ## Program Certificate
 
 ![](assets/deep-learning.jpg)
 
 Verify [here](https://confirm.udacity.com/D2TM3ES)
+
+
+<a name="license"/>
 
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
