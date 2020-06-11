@@ -8,7 +8,7 @@ There are also notebooks used as projects for the Nanodegree program. Find the p
 
 [1. Introduction to Deep Learning](#introdl)
 
-[](#)
+[2. Neural Networks](#nns)
 
 [](#)
 
@@ -27,7 +27,7 @@ There are also notebooks used as projects for the Nanodegree program. Find the p
 
 <a name="introdl"/>
 
-### 1. Introduction to Deep Learning
+### Introduction to Deep Learning
 
 Install Anaconda.
 
@@ -37,9 +37,19 @@ Jupyter Notebooks.
 
 Matrix Math and NumPy Refresher.
 
-<a name="introdl"/>
+<a name="nns"/>
 
-### 
+### Neural Networks
+
+Introduction to Neural Networks.
+
+Implementing Gradient Descent.
+
+Training Neural Networks.
+
+Sentiment Analysis.
+
+Deep Learning with PyTorch.
 
 
 <a name="introdl"/>
