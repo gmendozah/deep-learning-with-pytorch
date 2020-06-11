@@ -10,19 +10,19 @@ There are also notebooks used as projects for the Nanodegree program. Find the p
 
 [2. Neural Networks](#nns)
 
+[3. Convolutional Neural Networks](#cnns)
+
 [4. Recurrent Neural Networks](#rnns)
 
-[](#)
+[5. Generative Adversarial Networks](#gans)
 
-[](#)
+[6. Deploying a Model](#deploy)
 
-[](#)
+[7. Run](#run)
 
-[](#)
+[8. Program Certificate](#pcertificate)
 
-[](#)
-
-[](#)
+[9. License](#license)
 
 
 <a name="introdl"/>
@@ -37,6 +37,7 @@ Jupyter Notebooks.
 
 Matrix Math and NumPy Refresher.
 
+
 <a name="nns"/>
 
 ### Neural Networks
@@ -50,6 +51,23 @@ Training Neural Networks.
 Sentiment Analysis.
 
 Deep Learning with PyTorch.
+
+
+<a name="cnns"/>
+
+### Convolutional Neural Networks
+
+Introduction to Convolutional Neural Networks.
+
+Transfer Learning.
+
+Weight Initialization.
+
+Autoencoders.
+
+Style Transfer.
+
+Deep Learning for Cancer Detection.
 
 
 <a name="rnns"/>
@@ -69,20 +87,32 @@ Embeddings & Word2Vec.
 Sentiment Prediction RNN.
 
 
-<a name="introdl"/>
+<a name="gans"/>
 
-### 
+### Generative Adversarial Networks
+
+Introduction to Generative Adversarial Networks.
+
+Deep Convolutional GANs.
+
+Pix2Pix $ CycleGAN.
+
+Implementing a CycleGAN.
 
 
-<a name="introdl"/>
+<a name="deploy"/>
 
-### 
+### Deploying a Model
 
+Introduction to Deployment.
 
-<a name="introdl"/>
+Building a Model using SageMaker.
 
-### 
+Deploying and Using a Model.
 
+Hyperparameter Tuning.
+
+Updating a Model.
 
 
 <a name="run"/>
@@ -105,7 +135,7 @@ This will open the iPython Notebook software and project file in your browser.
 
 <a name="pcertificate"/>
 
-## Program Certificate
+## I Finally Graduated! :blush:
 
 ![](assets/deep-learning.jpg)
 
