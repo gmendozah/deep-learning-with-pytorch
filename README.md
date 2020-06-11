@@ -6,38 +6,60 @@ There are also notebooks used as projects for the Nanodegree program. Find the p
 
 ## Table of Contents
 
-[1. ](#)
+[1. Introduction to Deep Learning](#introdl)
 
-[2. ](#)
+[](#)
 
-[3. ](#)
+[](#)
 
-[4. ](#)
+[](#)
 
-[5. ](#)
+[](#)
 
-[6. ](#)
+[](#)
 
-[7. ](#)
+[](#)
 
-[8. ](#)
+[](#)
 
-[9. ](#)
+[](#)
 
 
-<a name="introml"/>
+<a name="introdl"/>
 
-### 1.
+### 1. Introduction to Deep Learning
 
-### 2.
+Install Anaconda.
 
-### 3.
+Deep Learning Applications.
 
-### 4.
+Jupyter Notebooks.
 
-### 5.
+Matrix Math and NumPy Refresher.
 
-### 6. 
+<a name="introdl"/>
+
+### 
+
+
+<a name="introdl"/>
+
+### 
+
+
+<a name="introdl"/>
+
+### 
+
+
+<a name="introdl"/>
+
+### 
+
+
+<a name="introdl"/>
+
+### 
 
 
 
