@@ -10,7 +10,7 @@ There are also notebooks used as projects for the Nanodegree program. Find the p
 
 [2. Neural Networks](#nns)
 
-[](#)
+[4. Recurrent Neural Networks](#rnns)
 
 [](#)
 
@@ -52,9 +52,21 @@ Sentiment Analysis.
 Deep Learning with PyTorch.
 
 
-<a name="introdl"/>
+<a name="rnns"/>
 
-### 
+### Recurrent Neural Networks
+
+Introduction to Recurrent Neural Networks.
+
+Long Short-Term Memory Networks (LSTMs).
+
+Implementation of RNN & LSTM.
+
+Hyperparameters.
+
+Embeddings & Word2Vec.
+
+Sentiment Prediction RNN.
 
 
 <a name="introdl"/>
